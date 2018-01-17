@@ -1,0 +1,5 @@
+picture
+audio
+application
+setup
+test

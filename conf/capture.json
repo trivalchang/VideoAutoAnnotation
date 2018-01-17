@@ -1,0 +1,13 @@
+{
+	/***
+	* class info file 
+	***/
+	"class": "classes.txt",
+	/****
+	* HISTOGRAM OF ORIENTED GRADIENTS DESCRIPTOR
+	****/
+	"orientations": 9,
+	"pixels_per_cell": [4, 4],
+	"cells_per_block": [2, 2],
+	"normalize": true
+}
